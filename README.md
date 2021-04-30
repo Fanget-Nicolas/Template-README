@@ -27,7 +27,7 @@
   <h3 align="center">{Nom du projet}</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    {Brève description du projet}
     <br />
     <br />
     <a href="https://github.com/Fowlthane/Best-README-Template">Demo</a>

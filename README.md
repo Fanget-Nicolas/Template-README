@@ -6,70 +6,40 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
+<!--
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+-->
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Fowlthane/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">{Nom du projet}</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/Fowlthane/Best-README-Template">Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/Fowlthane/Best-README-Template/issues">Signaler un bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Fowlthane/Best-README-Template/issues">Demander une fonctionnalité</a>
   </p>
 </p>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table des matières</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">À propos du projet</a>
-      <ul>
-        <li><a href="#built-with">Construit avec</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Mise en production</a>
-      <ul>
-        <li><a href="#prerequisites">Prérequis</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Utilisation</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contribution</a></li>
-    <li><a href="#license">Licence</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Remerciements</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
-## :pencil2: À propos du projet
+## :mag: À propos du projet
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -84,7 +54,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
+### :building_construction: Construit avec
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
@@ -99,7 +69,7 @@ This section should list any major frameworks that you built your project using.
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prérequis
+### :card_file_box: Prérequis
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -107,7 +77,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### :package: Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -126,7 +96,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-## Utilisation
+## :tada: Utilisation
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -142,7 +112,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 
 <!-- CONTRIBUTING -->
-## Contribution
+## :beers: Contribution
 
 Les contributions sont ce qui fait de la communauté open source un endroit extraordinaire pour apprendre, inspirer et créer. Toutes les contributions que vous faites sont **grandement appréciées**.
 

@@ -64,7 +64,7 @@ This section should list any major frameworks that you built your project using.
 
 
 <!-- GETTING STARTED -->
-## :rocket: Pour démarrer
+## :rocket: Premiers pas
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.

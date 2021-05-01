@@ -20,7 +20,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Fowlthane/Best-README-Template">
+  <a href="https://github.com/Fowlthane/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -30,7 +30,7 @@
     {Brève description du projet}
     <br />
     <br />
-    <a href="https://github.com/Fowlthane/Best-README-Template">Demo</a>
+    <a href="https://github.com/Fowlthane/">Demo</a>
     ·
     <a href="https://github.com/Fowlthane/Best-README-Template/issues">Signaler un bug</a>
     ·
@@ -167,4 +167,4 @@ Github : [https://github.com/Fowlthane](https://github.com/Fowlthane)
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: .readme_images/screenshot.png

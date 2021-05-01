@@ -107,7 +107,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## :construction: Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+Consultez la rubrique [problèmes](https://github.com/othneildrew/Best-README-Template/issues) pour obtenir une liste des fonctionnalités proposées (et des problèmes connus).
 
 
 
@@ -127,7 +127,7 @@ Les contributions sont ce qui fait de la communauté open source un endroit extr
 <!-- Licence -->
 ## :page_facing_up: Licence
 
-Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
+Distribué sous la licence MIT. Voir le fichier `LICENSE` pour plus d'informations.
 
 
 
@@ -145,13 +145,6 @@ Github : [https://github.com/Fowlthane](https://github.com/Fowlthane)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
 
 
 

@@ -109,6 +109,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 Consultez la rubrique [problèmes](https://github.com/othneildrew/Best-README-Template/issues) pour obtenir une liste des fonctionnalités proposées (et des problèmes connus).
 
+- [x] {1}
+- [ ] {2}
+- [ ] {3}
 
 
 <!-- CONTRIBUTING -->

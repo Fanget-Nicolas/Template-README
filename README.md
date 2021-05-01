@@ -21,7 +21,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Fowlthane/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src=".readme\images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">{Nom du projet}</h3>
@@ -167,4 +167,4 @@ Github : [https://github.com/Fowlthane](https://github.com/Fowlthane)
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: .readme_images/screenshot.png
+[product-screenshot]: .readme\images/screenshot.png

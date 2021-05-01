@@ -125,7 +125,7 @@ Les contributions sont ce qui fait de la communauté open source un endroit extr
 
 
 <!-- Licence -->
-## :page_facing_up: Licence
+## :page_facing_up:  Licence
 
 Distribué sous la licence MIT. Voir le fichier `LICENSE` pour plus d'informations.
 

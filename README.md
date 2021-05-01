@@ -39,7 +39,7 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-## :mag: À propos du projet
+## :mag: À propos
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 

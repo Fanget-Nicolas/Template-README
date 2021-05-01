@@ -21,7 +21,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Fowlthane/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src=".readme-images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">{Nom du projet}</h3>

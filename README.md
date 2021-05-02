@@ -20,7 +20,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Fowlthane/">
+  <a href="https://github.com/Fanget-Nicolas/">
     <img src=".readme/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -30,11 +30,11 @@
     {Brève description du projet}
     <br />
     <br />
-    <a href="https://github.com/Fowlthane/">Demo</a>
-    ·
-    <a href="https://github.com/Fowlthane/Best-README-Template/issues">Signaler un bug</a>
-    ·
-    <a href="https://github.com/Fowlthane/Best-README-Template/issues">Demander une fonctionnalité</a>
+    <a href="https://github.com/Fanget-Nicolas/">Demo</a>
+    •
+    <a href="https://github.com/Fanget-Nicolas/issues">Signaler un bug</a>
+    •
+    <a href="https://github.com/Fanget-Nicolas/">Demander une fonctionnalité</a>
   </p>
 </p>
 
@@ -138,7 +138,7 @@ Distribué sous la licence MIT. Voir le fichier `LICENSE` pour plus d'informatio
 ## :speech_balloon: Contact
 
 <!-- Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com -->
-Github : [https://github.com/Fowlthane](https://github.com/Fowlthane)
+Github : [https://github.com/Fowlthane](https://github.com/Fanget-Nicolas)
 
 
 
